@@ -1,6 +1,6 @@
 # The awesome manifesto
 
-If you want your list to be included on `awesome`, try to only include actual awesome stuff in your list. After all, it's a curation, not a collection.
+If you want your list to be included in `awesome`, try to only include actual awesome stuff in your list. After all, it's a curation, not a collection.
 
 But **what is awesome?**
 
@@ -24,11 +24,13 @@ Add an awesome badge to the top of your list, right next to the title. [Example]
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ```
 
+You are allowed to use the badge on lists not included here and also on private lists.
+
 *The badges should not be modified in any way.*
 
 ## Awesome mentioned badge
 
-This badge is for projects being mentioned in an Awesome list (**NOT for use in Awesome lists**). For example, the [Chalk](https://github.com/chalk/chalk) project could feature this badge because it's listed in [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs). It's totally optional for projects, but it's a nice way to show they've been featured in an Awesome list. You can choose either the regular badge or the flat one.
+This badge is intended for projects featured in an Awesome list (**not for Awesome lists themselves**). For example, the [Chalk](https://github.com/chalk/chalk) project could feature this badge because it's listed in [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs). It's totally optional for projects, but it's a nice way to show they've been featured in an Awesome list. You can choose either the regular badge or the flat one.
 
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge-flat.svg)](https://awesome.re)
@@ -64,7 +66,7 @@ Ensure your list is grammatically correct, typo-free and has no Markdown formatt
 
 ## Choose an appropriate license
 
-Keep in mind that if you [haven't selected a license](http://choosealicense.com/no-license/), it basically means the people are *not* allowed to reproduce, distribute or create derivative works.
+Keep in mind that if you [haven't selected a license](https://choosealicense.com/no-license/), it basically means the people are *not* allowed to reproduce, distribute or create derivative works.
 
 [Creative Commons licenses](https://creativecommons.org/) are perfect for this purpose. **We would recommend [`CC0`](https://creativecommons.org/publicdomain/zero/1.0/).** Code licenses like MIT, BSD, GPL, and so forth are not recommended.
 
@@ -76,8 +78,8 @@ If you don't feel like writing one from scratch, feel free to take our [contribu
 
 ## Stylize your list properly
 
-Create a [table of contents](https://github.com/sindresorhus/stuff/blob/master/toc-generators.md), organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a `.`).
+Create a [table of contents](https://github.com/sindresorhus/stuff/blob/main/toc-generators.md), organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a `.`).
 
 ## Accept other people's opinion
 
-If you're an owner of the list, respect other people's opinion. If there are plenty of users not agreeing to your decision, give it a second thought.
+If you're an owner of the list, respect other people's opinions. If there are plenty of users not agreeing with your decision, give it a second thought.
